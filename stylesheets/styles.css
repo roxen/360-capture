@@ -277,3 +277,7 @@ footer {
 .connect {
     text-decoration: underline;
 }
+
+.addthis_toolbox {
+  margin-bottom: 10px;
+}
